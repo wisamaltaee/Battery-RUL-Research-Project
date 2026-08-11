@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
+*.egg-info/
+
+# Raw proprietary data files (large; download per README.md instead of committing)
+data/raw/
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
