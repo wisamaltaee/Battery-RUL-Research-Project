@@ -323,7 +323,11 @@ The SHAP analysis further suggests that these failures are associated with chang
 
 ## License
 
-License information will be added here.
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 Wisam Al Taie, Preston Polakowski
 
 ---
 
